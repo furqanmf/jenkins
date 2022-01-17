@@ -1,0 +1,44 @@
+[
+    {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "password": "johndoe",
+        "role": "customer"
+    },
+    {
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "password": "janedoe",
+        "role": "admin"
+    },
+    {
+        "name": "Jack Reacher",
+        "email": "reach.jack@example.com",
+        "password": "jackr1",
+        "role": "admin"
+    },
+    {
+        "name": "Jason Bourne",
+        "email": "jasonb@example.com",
+        "password": "jason123",
+        "role": "customer"
+    },
+    {
+        "name": "Jake Lehmann",
+        "email": "jale.lehmann@example.com",
+        "password": "jakelehman",
+        "role": "customer"  
+    },
+    {
+        "name": "James Bond",
+        "email": "jamed.bond@example.com",
+        "password": "jamesbond",
+        "role": "customer"
+     },
+     {
+        "name": "Peter Parker",
+        "email": "peterpark@example.com",
+        "password": "peterparker",
+        "role": "customer"
+    }
+]
